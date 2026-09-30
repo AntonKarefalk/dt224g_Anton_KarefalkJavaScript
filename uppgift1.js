@@ -1,5 +1,6 @@
 /* Kod är skriven av Anton Kårefalk, denna kod handlar om att skriva information om en individ som kommer då att skrivas ut av console */ 
 "use strict";
+
 /* Ger informationen om individen*/
 let firstname = "Anton";
 let lastname = "Kårefalk";
